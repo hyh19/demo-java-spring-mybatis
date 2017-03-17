@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="spring+mybatis">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Java/lib/spring+mybatis" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Java/lib/spring+mybatis" recursive="false" />
+  </library>
+</component>
