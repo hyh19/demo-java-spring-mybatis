@@ -7,14 +7,14 @@
       <module fileurl="file://$PROJECT_DIR$/12/AManyToManyTest/AManyToManyTest.iml" filepath="$PROJECT_DIR$/12/AManyToManyTest/AManyToManyTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/12/AOneToManyTest/AOneToManyTest.iml" filepath="$PROJECT_DIR$/12/AOneToManyTest/AOneToManyTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/12/AOneToOneTest/AOneToOneTest.iml" filepath="$PROJECT_DIR$/12/AOneToOneTest/AOneToOneTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/09/DMLTest/DMLTest.iml" filepath="$PROJECT_DIR$/09/DMLTest/DMLTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09/DMLTest/DMLTest.iml" filepath="$PROJECT_DIR$/09/DMLTest/DMLTest.iml" group="09" />
       <module fileurl="file://$PROJECT_DIR$/10/DynamicSQLTest/DynamicSQLTest.iml" filepath="$PROJECT_DIR$/10/DynamicSQLTest/DynamicSQLTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/10/ManyToManyTest/ManyToManyTest.iml" filepath="$PROJECT_DIR$/10/ManyToManyTest/ManyToManyTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/08/MyBatisQs/MyBatisQs.iml" filepath="$PROJECT_DIR$/08/MyBatisQs/MyBatisQs.iml" group="08" />
       <module fileurl="file://$PROJECT_DIR$/11/OneLevelCacheTest/OneLevelCacheTest.iml" filepath="$PROJECT_DIR$/11/OneLevelCacheTest/OneLevelCacheTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/10/OneToManyTest/OneToManyTest.iml" filepath="$PROJECT_DIR$/10/OneToManyTest/OneToManyTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/10/OneToOneTest/OneToOneTest.iml" filepath="$PROJECT_DIR$/10/OneToOneTest/OneToOneTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/09/ResultMapTest/ResultMapTest.iml" filepath="$PROJECT_DIR$/09/ResultMapTest/ResultMapTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09/ResultMapTest/ResultMapTest.iml" filepath="$PROJECT_DIR$/09/ResultMapTest/ResultMapTest.iml" group="09" />
       <module fileurl="file://$PROJECT_DIR$/11/TwoLevelCacheTest/TwoLevelCacheTest.iml" filepath="$PROJECT_DIR$/11/TwoLevelCacheTest/TwoLevelCacheTest.iml" />
     </modules>
   </component>
