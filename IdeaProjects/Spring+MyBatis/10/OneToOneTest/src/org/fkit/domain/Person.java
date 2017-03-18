@@ -2,26 +2,26 @@ package org.fkit.domain;
 
 import java.io.Serializable;
 
-/**
- * CREATE TABLE tb_card(
+/*
+CREATE TABLE tb_card(
 id INT PRIMARY KEY AUTO_INCREMENT,
-CODE VARCHAR(18)
+code VARCHAR(18)
 );
 
-INSERT INTO tb_card(CODE) VALUES('432801198009191038');
+INSERT INTO tb_card(code) VALUES('432801198009191038');
 
 CREATE TABLE tb_person(
 id INT PRIMARY KEY AUTO_INCREMENT,
-NAME VARCHAR(18),
+name VARCHAR(18),
 sex VARCHAR(18),
 age INT,
 card_id INT UNIQUE,
 FOREIGN KEY (card_id) REFERENCES tb_card(id)
 );
 
-INSERT INTO tb_person(NAME,sex,age,card_id) VALUES('jack','男',23,1)
+INSERT INTO tb_person(name,sex,age,card_id) VALUES('jack','男',23,1);
+*/
 
- * */
 public class Person implements Serializable {
 
 	private Integer id;  // 主键id
